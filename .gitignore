@@ -43,3 +43,9 @@ tools/python-soundfile/
 speechx/fc_patch/
 
 third_party/ctc_decoders/paddlespeech_ctcdecoders.py
+
+examples/csmsc/tts3-windows/download
+examples/csmsc/tts3-windows/baker_alignment_tone
+examples/csmsc/tts3-windows/datasets
+examples/csmsc/tts3-windows/durations.txt
+examples/csmsc/tts3-windows/dump
